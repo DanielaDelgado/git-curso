@@ -1,0 +1,23 @@
+commit c6f6d01f9400172777d291eea7285b7895e4ad4a
+Author: DanielaDelgado <44482238+DanielaDelgado@users.noreply.github.com>
+Date:   Mon Sep 2 10:42:39 2019 -0500
+
+    Create README.md
+
+commit 36d51d540ceb404faa727aaea01c42ae3e8381d2
+Author: DanielaDelgado <damadelgadogu@ittepic.edu.mx>
+Date:   Mon Sep 2 10:01:59 2019 -0500
+
+    he agregado un .gitignore
+
+commit 8c633500ed960c337f423494302bc2471d522d24
+Author: DanielaDelgado <damadelgadogu@ittepic.edu.mx>
+Date:   Thu Aug 29 10:22:13 2019 -0500
+
+    ahora el index.html tiene codigo html
+
+commit aa689dcb88195d37e02a91e445471c5f01885011
+Author: DanielaDelgado <damadelgadogu@ittepic.edu.mx>
+Date:   Wed Aug 28 23:39:41 2019 -0500
+
+    mi primer commit
